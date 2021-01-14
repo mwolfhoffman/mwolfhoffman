@@ -1,4 +1,4 @@
-# Michael Wolf Hoffman 👦
+# Michael Wolf Hoffman 
 
 <p>
 I am a software engineer living in Salt Lake City, Utah.
