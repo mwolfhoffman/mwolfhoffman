@@ -1,7 +1,7 @@
 # Michael Wolf Hoffman 
 
 <p>
-I am a software engineer living in Salt Lake City, Utah.
+I am a software engineer living in Salt Lake City, Utah. I go by my middle name.
 
 I'm passionate about modern JavaScript frameworks, micro-servicing front ends, large rocky mountains, and my two dogs :dog:  :dog: .
 </p>
