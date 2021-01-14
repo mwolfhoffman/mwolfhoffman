@@ -1,16 +1,18 @@
-### Hi there 👋
+# Michael Wolf Hoffman 👦
 
-<!--
-**mwolfhoffman/mwolfhoffman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+I am a software engineer living in Salt Lake City, Utah.
 
-Here are some ideas to get you started:
+I'm passionate about modern JavaScript frameworks, micro-servicing front ends, large rocky mountains, and my two dogs :dog:  :dog: .
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  💻 I’m currently working at InventoryLab, building exciting products that Amazon Seller's love.
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📝 I'm a big fan of writing an teaching. I do both on [My Blog](https://codewithwolf.com/).
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🔎 I’m always learning and lately have been delving deep into the depths of React.js and Vue.
+    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   📫 Contact Me: [LinkedIn](https://www.linkedin.com/in/mwhoffman/) or [My Blog](https://codewithwolf.com/).
