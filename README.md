@@ -9,12 +9,12 @@ I'm passionate about modern JavaScript frameworks, micro-servicing front ends, l
 <br/>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  💻 I’m currently working at Colt Builders in Murray, Utah.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  💻 I’m currently working at Pluralsight.
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: My expertise is web and I do all things JavaScript and TypeScript (Node, Express, React, Vue, Angular)
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📝 I'm a big fan of writing and teaching. I do both on [My Blog](https://codewithwolf.com/).
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🔎 I’m always learning and lately have been delving deep into the depths of Python.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🔎 I’m always learning and building and lately I have been working on a .NET/React/PostgreSQL micro-saas starter.
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   📫 Contact Me: [LinkedIn](https://www.linkedin.com/in/mwhoffman/) or [My Blog](https://codewithwolf.com/).
