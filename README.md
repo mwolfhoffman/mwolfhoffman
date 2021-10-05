@@ -3,7 +3,7 @@
 <p>
 I am a software engineer living in Salt Lake City, Utah. I go by my middle name.
 
-I'm passionate about modern JavaScript frameworks, micro-servicing front ends, large rocky mountains, and my two dogs :dog:  :dog: .
+I'm passionate about modern JavaScript frameworks, domain driven design, lean development, large rocky mountains, and my two dogs :dog:  :dog: .
 </p>
 
 <br/>
