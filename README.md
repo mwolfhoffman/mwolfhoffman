@@ -11,7 +11,7 @@ I'm passionate about modern JavaScript frameworks, domain driven design, lean de
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  💻 I’m currently working at Pluralsight.
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: My expertise is web and I do all things JavaScript and TypeScript (Node, Express, React, Vue, Angular)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: I enjoy writing Python, C#, Go, and all things TypeScript (Node, Express, React, Vue, Angular). 
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📝 I'm a big fan of writing and teaching. I do both on [My Blog](https://codewithwolf.com/).
  
