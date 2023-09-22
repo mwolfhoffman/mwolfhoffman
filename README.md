@@ -11,7 +11,7 @@ I'm passionate about modern JavaScript frameworks, domain driven design, lean de
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  💻 I’m currently working at Pluralsight.
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: I enjoy writing TypeScript, JavaScript, Java, and C#/.NET. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: I enjoy writing TypeScript and C#/. 
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🔎 I’m always learning and building. See what I've been up to on [My Blog](https://codewithwolf.com/).
     
